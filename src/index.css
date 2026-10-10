@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary-navy: #0e223d;
+    --primary-navy-dark: #09172a;
+    --primary-navy-light: #16365c;
+    --accent-gold: #d97706;
+    --accent-gold-hover: #b45309;
+    --accent-gold-light: #fef3c7;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+.font-handwriting {
+  font-family: 'Caveat', cursive;
+}

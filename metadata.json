@@ -1,0 +1,6 @@
+{
+  "name": "ChichiTlc Ltd - Healthcare & Care Staffing Agency",
+  "description": "B2B healthcare staffing platform for hospitals, care homes, and clinics to request qualified, DBS-vetted temporary care staff and short-notice cover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
